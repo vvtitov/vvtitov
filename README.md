@@ -1,8 +1,8 @@
 Hi 👋 My name is Vladislav
 ==========================
 
-Front-End Developer w/ 6+ years as QAA 
+Front-End Engineer w/ 6+ years as Quality Assurance Analyst 
 
 * 📍 Buenos Aires, Argentina
-* ☕ 33 years old
+* ☕ 34 years old
 * 🔗 [Portfolio](http://vtitov-portfolio.vercel.app)
